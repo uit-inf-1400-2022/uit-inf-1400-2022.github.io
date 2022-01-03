@@ -28,12 +28,13 @@ Opptak av forelesningene kan dere nå via Panopto. Linker til forelesningene lig
 
 ### Gruppelærere
 
-| Gruppelærere / Vitass | Tid gr    | Gr nr |
-|-----------------------|-----------|-------|
-|                       | Man 14-16 | Gr 1  |
-|                       | Fre 14-16 | Gr 2  |
-|                       | Ons 14-16 | Gr 3  |
-|                       | Tor 10-12 | Gr 4  |
-|                       | Tor 14-16 | Gr 5  |
-|                       | Tor 14-16 | Gr 6  |
+| Gruppelærere / Vitass / TA | Tid gr    | Gr nr |
+|----------------------------|-----------|-------|
+| Håvard Livastøl            | Man 14-16 | Gr 1  |
+| Sindre Sagelv Bjørvik      | Fre 14-16 | Gr 2  |
+| Johan Niillas Jernsletten  | Ons 14-16 | Gr 3  |
+| Sivert Steinholt           | Tor 10-12 | Gr 4  |
+| Børge Bårdsen              | Tor 14-16 | Gr 5  |
+| Fredrik Hagen Fasteraune   | Tor 14-16 | Gr 6  |
+| Rafael Nozal Cañadas       | Ons 10-12 | Gr 7  |
 
