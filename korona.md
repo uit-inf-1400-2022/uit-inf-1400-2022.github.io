@@ -1,4 +1,4 @@
-Korona-tilpasninger for inf-1400 våren 2021
+Korona-tilpasninger for inf-1400 våren 2022
 ========================
 
 UiT har lagt ut informasjon med råd til studenter og ansatte her: 
@@ -15,20 +15,19 @@ Det betyr blant annet:
 Forelesninger
 ------------
 
-Alle forelesninger skal tas opp slik at det vil være mulig å følge med selv om man bør holde seg hjemme. 
-
 Vi kjører fysisk oppmøte ved forelesninger når rådet fra UiT er at vi skal gjøre dette. Det samme gjelder gruppene. 
 Følg med på mail og meldinger fra kurset. Endringer kan komme på kort varsel. 
 
-Ved fysisk oppmøte: 
+Forelesninger tas opp slik at det vil være mulig å følge med selv om man bør holde seg hjemme. 
+Vi tar forbehold om at det kan bli kluss med opptak.
 
-- Forelesningen vil bli streamet fra forelesningsrommmet via Panopto. 
+Ved fysisk oppmøte: 
+- Forelesningen vil bli streamet fra forelesningsrommmet via Panopto. Opptak vil være tilgjengelig i ettertid.
 - Vi vil prøve å henge med på discord-chaten i løpet av forelesningene slik at det vil være mulig å stille spørsmål underveis for de som ikke er tilstede. 
 
 Ved oppmøte online: 
 - I utgangspunktet kommer vi til å bruke Zoom og følge med på Discord i tilfelle det er spørsmål der også. 
-
-Forelesningene vil bli tatt opp og gjort tilgjengelig når Panopto er ferdig med konvertering. Dette kan ta litt tid. 
+- Forelesningene vil bli tatt opp og gjort tilgjengelig når Panopto er ferdig med konvertering. Dette kan ta litt tid. 
 
 
 Kollokvier
@@ -38,7 +37,8 @@ Vi bruker discord til "virtuelle grupperom".
 Eksamen
 --------
 
-Universitetet har vedtatt at det ikke avholdes eksamen med fysisk oppmøte på campus i år: [https://uit.no/fellestjenester/eksamen](https://uit.no/fellestjenester/eksamen). 
+Universitetet har vedtatt at det ikke avholdes eksamen med fysisk oppmøte på campus 
+i år: [https://uit.no/fellestjenester/eksamen](https://uit.no/fellestjenester/eksamen). 
 
 For inf-1400 betyr dette at det blir en 4-timers hjemmeeksamen. Vi kommer tilbake med mer informasjon etter hvert. 
 
