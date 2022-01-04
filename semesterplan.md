@@ -52,15 +52,15 @@ Planen er tentativ og kan bli endret.
 |    | Fre 11.02 | ABC and Operator Overloading            | [OOP 6](lectures/oop-06-abc-op-overload)                                                    |
 |  7 | Tir 15.02 |                                         |                                                                                             |
 |    | Fre 18.02 | *O2 ut*                                 |                                                                                             |
-|  8 | Tir 22.02 | Python Data Structures                  | [OOP 7](lectures/oop-07-python-data-structures)                                             |
-|    | Fre 25.02 | Python Functional, Patterns, Strings    | [OOP 8](lectures/oop-08-oop-functional), [OOP 9](lectures/oop-09-strings-and-serialization) |
-|  9 | Tir 01.03 | Iterator Pattern                        | [OOP 10](lectures/oop-10-iterator)                                                          |
+|  8 | Tir 22.02 | Event-driven programming <EV>           | [notater](lectures/lecture-event-driven-programming)                                        |
+|    | Fre 25.02 | Python Data Structures                  | [OOP 7](lectures/oop-07-python-data-structures)                                             |
+|  9 | Tir 01.03 | Python Functional, Patterns, Strings    | [OOP 8](lectures/oop-08-oop-functional), [OOP 9](lectures/oop-09-strings-and-serialization) |
 |    | Fre 04.03 |                                         |                                                                                             |
-| 10 | Tir 08.03 | Common Design Patterns                  | [OOP 11](lectures/oop-11-common-design-pat)                                                 |
+| 10 | Tir 08.03 | Iterator Pattern                        | [OOP 10](lectures/oop-10-iterator)                                                          |
 |    | Fre 11.03 | *O3 ut*                                 |                                                                                             |
-| 11 | Tir 15.03 | Advanced Design Patterns                | [OOP 12](lectures/oop-12-adv-design-pat)                                                    |
+| 11 | Tir 15.03 | Common Design Patterns                  | [OOP 11](lectures/oop-11-common-design-pat)                                                 |
 |    | Fre 18.03 |                                         |                                                                                             |
-| 12 | Tir 22.03 | Event-driven programming                | [notater](lectures/lecture-event-driven-programming)                                        |
+| 12 | Tir 22.03 | Advanced Design Patterns                | [OOP 12](lectures/oop-12-adv-design-pat)                                                    |
 |    | Fre 25.03 | Testing Object-Oriented Programs        | [OOP 13](lectures/oop-13-testing)                                                           |
 | 13 | Tir 29.03 | Class-based vs. classless OOP           | [ex: C++, JavaScript, Java, Self..](lectures/lecture-other-languages)                       |
 |    | Tor 31.03 | *O3 inn (kan bli flyttet)*              |                                                                                             |
