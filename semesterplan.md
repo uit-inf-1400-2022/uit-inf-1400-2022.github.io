@@ -87,6 +87,7 @@ Opptak av forelesninger
 
 Under vil dere finne linker til opptak av forelesningene etter hvert som de blir tilgjengelige. 
 
+*NB* Se under [https://uit.instructure.com/courses/24906/external_tools/1032](https://uit.instructure.com/courses/24906/external_tools/1032) for oversikt over opptak direkte i Panopto. 
 
 | Dato | Panopto |
 |------|---------|
