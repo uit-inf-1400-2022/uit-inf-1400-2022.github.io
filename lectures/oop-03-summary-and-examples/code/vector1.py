@@ -5,8 +5,8 @@
 This is used to illusttrate Python classes and some vector operations.
 For a more complete (and faster) implementation, see pygame.math.Vector2.
 
-One issue here is that adding two GVector objects will return a Vector, 
-not a GVector. 
+One issue here is that adding two GVector objects will return a Vector,
+not a GVector.
 """
 
 import pygame

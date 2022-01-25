@@ -7,9 +7,9 @@ For a more complete (and faster) implementation, see pygame.math.Vector2.
 
 Try to mitigate the issue of vector operations always returning a Vector
 object by asking "self" what class it is and using that class to create
-and return an object. 
+and return an object.
 
-Remaining issue: This solves adding a vector to a GVector (gv + v), 
+Remaining issue: This solves adding a vector to a GVector (gv + v),
 but what about adding a GVector to a vector (v + gv)?
 """
 

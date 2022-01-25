@@ -5,8 +5,8 @@
 This is used to illusttrate Python classes and some vector operations.
 For a more complete (and faster) implementation, see pygame.math.Vector2.
 
-Instead of converting back and forth between Vector and GVectors, 
-use a draw_vector function that draws vectors. 
+Instead of converting back and forth between Vector and GVectors,
+use a draw_vector function that draws vectors.
 """
 
 import pygame
