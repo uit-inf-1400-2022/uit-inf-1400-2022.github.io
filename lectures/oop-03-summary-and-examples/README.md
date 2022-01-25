@@ -1,7 +1,7 @@
 Summary and examples
 ====================
 
-Lecture 2021-01-26
+Lecture 2022-01-25
 @ John Markus Bjørndalen
 
 Today's lecture topics
@@ -17,7 +17,11 @@ Today's lecture topics
   - adding methods to objects at runtime. 
 
 
-
+*Note* that we will most likely not cover all of this in the
+lecture. These notes contain a collection of additional examples that
+we have used over some years to give a little more insight into how
+things are working. As such, they are not considered mandatory
+readings for the exam.
 
 Vector class
 ----------
