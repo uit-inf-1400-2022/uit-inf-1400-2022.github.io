@@ -38,3 +38,9 @@ Opptak av forelesningene kan dere nå via Panopto. Linker til forelesningene lig
 | Fredrik Hagen Fasteraune   | Tor 14-16 | Gr 6  |
 | Rafael Nozal Cañadas       | Ons 10-12 | Gr 7  |
 
+
+###  Fusk og plagiering
+
+Som student plikter du å sette deg inn i reglene som gjelder for bruk av hjelpemiddel ved eksamen samt regler for kildebruk og sitering. Ved brudd på disse reglene kan du bli mistenkt for fusk eller forsøk på fusk. Fusk på eksamen og plagiering i skriftlige arbeider innebærer at man bryter med det man kaller akademisk redelighet. Akademisk redelighet dreier seg om å være tydelig i forhold til hvilke tanker og refleksjoner som er ens egne og hvilke som er hentet fra andres arbeider, slik at arbeidet kan etterprøves. Fusk er alvorlig og straffes med annullering av eksamen og/eller utestenging fra universitetet. Bruk tid på å sette deg inn hva som regnes som plagiering eller fusk. Instituttets web-side Kildebruk, plagiering og fusk på eksamen / obligatoriske oppgaver er en god start for å lære mer om dette.
+
+
