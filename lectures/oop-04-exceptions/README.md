@@ -9,8 +9,8 @@ impossible. Python are mixing the words **error** and **exception**, but they ar
 - How to handle different exception types in different ways
 - Cleaning up when an exception has occured
 - Creating new types of exception
-- Using the exception syntax for flow control
-- Context manager
+
+
 
 
 ## Triggering an exception
