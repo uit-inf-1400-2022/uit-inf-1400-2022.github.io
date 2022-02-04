@@ -199,7 +199,7 @@ finally:
 ## Defining own Exceptions
 Sometimes you want to define your own exceptions so you can use them in your program. 
 ```python
-#From textbook
+#Simplified code from textbook
 class OutOfStock(Exception):
     pass
 class InvalidItemType(Exception):
