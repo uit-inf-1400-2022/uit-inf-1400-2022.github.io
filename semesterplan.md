@@ -48,9 +48,9 @@ Planen er tentativ og kan bli endret.
 |    | Fre 28.01 |                                         |                                                                                             |
 |  5 | Tir 01.02 | Programmer's toolchest                  | [notater](lectures/lecture-tools)                                                           |
 |    | Fre 04.02 | Exceptions                              | [OOP 4](lectures/oop-04-exceptions)                                                         |
-|  6 | Tir 08.02 | When to use Object-Oriented Programming | [OOP 5](lectures/oop-05-when-to-use-oop)                                                    |
-|    | Fre 11.02 | ABC and Operator Overloading            | [OOP 6](lectures/oop-06-abc-op-overload)                                                    |
-|  7 | Tir 15.02 |                                         |                                                                                             |
+|  6 | Tir 08.02 | *utsatt*                                | Covid-sykdom og innstilte fly                                                               |
+|    | Fre 11.02 | When to use Object-Oriented Programming | [OOP 5](lectures/oop-05-when-to-use-oop)                                                    |
+|  7 | Tir 15.02 | ABC and Operator Overloading            | [OOP 6](lectures/oop-06-abc-op-overload)                                                    |
 |    | Fre 18.02 | *O2 ut*                                 |                                                                                             |
 |  8 | Tir 22.02 | Event-driven programming <EV>           | [notater](lectures/lecture-event-driven-programming)                                        |
 |    | Fre 25.02 | Python Data Structures                  | [OOP 7](lectures/oop-07-python-data-structures)                                             |
