@@ -18,7 +18,7 @@ One view:
 
 Figur hentet fra: http://4.bp.blogspot.com/-ZVMs-2__6pg/UES3ykgiAlI/AAAAAAAADsw/aQEHMFFQ3nI/s1600/Cppw1.3.png
 
-Use built-in data structures unless (or until) there is an obvious need to define a class. There is no reason to add an extra level of complexity if it doesn't help organize out code.
+Use built-in data structures unless (or until) there is an obvious need to define a class. There is no reason to add an extra level of complexity if it doesn't help organize our code.
 
 **Example using functions**
 ```python
@@ -283,5 +283,5 @@ class Account:
         self._balance+=amount
 ```
 1. Explain the code to the person next to you        
-2. Try to make changes, uses *property*
+2. Try to make changes, use *property*
 3. What other classes to you feel should be here (think simple), if this is an account in a bank.
