@@ -1,4 +1,4 @@
-# When to Use Object-oriented Programming
+# When to Use Object-Oriented Programming
 In this lecture, we will look at when to use OO programming.
 
 **Covers the following:**
