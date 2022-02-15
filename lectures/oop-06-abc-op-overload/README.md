@@ -144,7 +144,7 @@ __pow__(a, b) **
 ```
 [Link to python documentation about operators](https://docs.python.org/3/library/operator.html)
 
-We want to add two colors with + operator and we want to check if two colors are equal. Then we can implement __add__(self,other) and __eg__(self,other) method, so we can do oneColor+secondColor or oneColor==secondColor.
+We want to add two colors with + operator and we want to check if two colors are equal. Then we can implement ```python __add__(self,other) and __eg__(self,other) method ```, so we can do oneColor+secondColor or oneColor==secondColor.
 ```python
 class Color:
     def __init__(self,rgb_value,name):
