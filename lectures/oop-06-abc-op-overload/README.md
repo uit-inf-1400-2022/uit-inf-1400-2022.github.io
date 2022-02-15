@@ -117,7 +117,11 @@ class ConcreteColor(AbstractColor):
 
 
 ## Operator overloading
-In python we have "magic methods", that start with __ and end with __. __add__(a,b), __mul__(a,b),__lt__(a,b), __contains__(a,b) etc. With use of this magic methods we can overload an operator. When we overload an operator we extend the meaning beyond predefined meaning. When + is used, the magic method __add__ is automatically invoked. If we try to + on two different datatypes it will throw a error, because it wont know how to handle it. But we can overload the operator so it can handle it.
+In python we have "magic methods", that start with __ and end with __. 
+```python 
+__add__(a,b), __mul__(a,b),__lt__(a,b), __contains__(a,b) etc. 
+```
+With use of this magic methods we can overload an operator. When we overload an operator we extend the meaning beyond predefined meaning. When + is used, the magic method __add__ is automatically invoked. If we try to + on two different datatypes it will throw a error, because it wont know how to handle it. But we can overload the operator so it can handle it.
 ```python
 #Example of adding a string to a int.
 class powerInt(int):
