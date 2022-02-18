@@ -113,11 +113,15 @@ class ConcreteColor(AbstractColor):
 1. Create an abstract class **Employee** that has two attributes: first name and last name. It should have one abstract method **get_salary()**
 2. Create two classes: **FulltimeEmployee** and **HourlyEmployee** that implements the abstract method from parent class **Employee**. For FulltimeEmployee the salary is an attribute for that class, while HourlyEmployee has two attributes, hours_worked and rate.
 3. Create a fourth class, **Payroll** that contains a list with all the employees. It should have two methods, one for adding new employees and one for printing out all the employees with name and salary.
-4. Add some employees (both types of employees) and print them out to screen. (try to extend the magic build_in method __str__)
+4. Add some employees (both types of employees) and print them out to screen. (try to extend the magic build_in method ```__str__```)
 
 
 ## Operator overloading
-In python we have "magic methods", that start with __ and end with __. __add__(a,b), __mul__(a,b),__lt__(a,b), __contains__(a,b) etc. With use of this magic methods we can overload an operator. When we overload an operator we extend the meaning beyond predefined meaning. When + is used, the magic method __add__ is automatically invoked. If we try to + on two different datatypes it will throw a error, because it wont know how to handle it. But we can overload the operator so it can handle it.
+In python we have "magic methods", that start with __ and end with __. 
+```python 
+__add__(a,b), __mul__(a,b),__lt__(a,b), __contains__(a,b) etc. 
+```
+With use of this magic methods we can overload an operator. When we overload an operator we extend the meaning beyond predefined meaning. When + is used, the magic method ```__add__``` is automatically invoked. If we try to + on two different datatypes it will throw a error, because it wont know how to handle it. But we can overload the operator so it can handle it.
 ```python
 #Example of adding a string to a int.
 class powerInt(int):
@@ -140,7 +144,7 @@ __pow__(a, b) **
 ```
 [Link to python documentation about operators](https://docs.python.org/3/library/operator.html)
 
-We want to add two colors with + operator and we want to check if two colors are equal. Then we can implement __add__(self,other) and __eg__(self,other) method, so we can do oneColor+secondColor or oneColor==secondColor.
+We want to add two colors with + operator and we want to check if two colors are equal. Then we can implement ``` __add__(self,other)``` and ```__eg__(self,other)``` method, so we can do oneColor+secondColor or oneColor==secondColor.
 ```python
 class Color:
     def __init__(self,rgb_value,name):
