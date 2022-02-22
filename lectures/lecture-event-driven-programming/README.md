@@ -107,6 +107,7 @@ main()
 ```
 
 **Excerice**
+
 Add some new key bindings to the example above.
 - R,G or B should change the arrow color to Red, Green or Blue (Hint: use color() on the turtle object)
 
@@ -252,6 +253,7 @@ main()
 ```
 
 **Small excerice**
+
 Add an handler that register when we click a button on the mouse on the screen. It should print to console "you clicked the left button" when you click the left mouse button, and "you clicked the right button" if you click the right mouse button and "you clicked something unknow.." for all the others buttons on the mouse.
 HINT: Use ```event.button``` to get which button that is pressed down. 
 
