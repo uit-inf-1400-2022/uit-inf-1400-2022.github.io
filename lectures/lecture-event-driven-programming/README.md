@@ -93,7 +93,7 @@ def main():
     turtle.setup(600,800)
     #Henter referansen til vinduet
     window = turtle.Screen()
-    window.title("Events with keypresses!")
+    window.title("Turtle with events!")
     window.bgcolor("#FF00FF")
    
     rune = TurtleWithEvents(window)
@@ -109,7 +109,7 @@ main()
 **Excerice**
 Add some new key bindings to the example above.
 - R,G or B should change the arrow color to Red, Green or Blue (Hint: use color() on the turtle object)
-- The keys + and - should increase/decrease the width of the pen (min value 1 and max 20). (Hint: use pensize() to get and set the pensize on the turtle object).
+
 
 ## Event queues
 One important property is that the part that creates the event does not necessarily need to know where or how the event is handled. The triggering, or firing, of events is disconnected from the handling of events.
