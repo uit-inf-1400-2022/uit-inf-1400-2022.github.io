@@ -58,7 +58,7 @@ Planen er tentativ og kan bli endret.
 |    | Fre 04.03 |                                         |                                                                                             |
 | 10 | Tir 08.03 | Iterator Pattern                        | [OOP 10](lectures/oop-10-iterator)                                                          |
 |    | Fre 11.03 | *O3 ut*                                 |                                                                                             |
-| 11 | Tir 15.03 | Common Design Patterns                  | [OOP 11](lectures/oop-11-common-design-pat)                                                 |
+| 11 | Tir 15.03 | Common Design Patterns                  | [OOP 11](lectures/oop-11-common-design-patt)                                                 |
 |    | Fre 18.03 |                                         |                                                                                             |
 | 12 | Tir 22.03 | Advanced Design Patterns                | [OOP 12](lectures/oop-12-adv-design-pat)                                                    |
 |    | Fre 25.03 | Testing Object-Oriented Programs        | [OOP 13](lectures/oop-13-testing)                                                           |
