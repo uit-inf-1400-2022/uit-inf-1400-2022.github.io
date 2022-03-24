@@ -159,6 +159,7 @@ test_testing.py::test_int_float PASSED                                          
 ================================================== 1 passed in 0.01s ==================================================
 ```
 
+You can also use classes:
 
 ```python
 def test_int_float():
