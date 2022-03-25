@@ -136,7 +136,7 @@ So ```pytest``` starts in current folder and searches after modules properly nam
 
 It doesn't even need to import any library:
 
-Command ```pip -U install pytest``` for install on windows, should be pretty same for macOS and Linux.
+Command ```pip install -U pytest``` for install on windows, should be pretty same for macOS and Linux.
 
 ```python
 
