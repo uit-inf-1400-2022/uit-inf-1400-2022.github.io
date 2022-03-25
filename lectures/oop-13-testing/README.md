@@ -115,7 +115,6 @@ Use cases:
 
 What do do:
 - Write Customer class. 
-- Manual test Customer class.
 - Write a unittest class to test the Customer class.
 
 
