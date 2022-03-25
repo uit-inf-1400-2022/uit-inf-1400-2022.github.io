@@ -139,7 +139,6 @@ It doesn't even need to import any library:
 Command ```pip -U install pytest``` for install on windows, should be pretty same for macOS and Linux.
 
 ```python
-#!/usr/bin/env python3
 
 def test_int_float():
     assert 1 == 1.0
