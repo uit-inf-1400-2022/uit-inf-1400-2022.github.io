@@ -123,9 +123,9 @@ with ctx("some_file") as f:
 ``` 
 
 What is actually going on?
-before ```yield``` -> ```__enter__()```
-yield resource     -> return generator (only once)
-after ```yield```  -> ```__exit__(type,value,traceback)```
+- before ```yield``` -> ```__enter__()```
+- yield resource     -> return generator (only once)
+- after ```yield```  -> ```__exit__(type,value,traceback)```
 
 ### Contex managers can be usefull in other contexts than only resources.
 
