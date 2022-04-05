@@ -143,7 +143,7 @@ class Timer:
         self.elapsed = self.stop - self.start
         return False
 ```
-Creating a function that calculate fibonacchi numbers (1,1,2,3,5,8,13....)
+Creating a function that calculate fibonacci numbers (1,1,2,3,5,8,13....)
 ```python
 def fibo(n):
     a=1
