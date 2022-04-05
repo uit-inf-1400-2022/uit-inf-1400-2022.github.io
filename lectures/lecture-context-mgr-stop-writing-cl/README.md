@@ -101,7 +101,7 @@ with ctx("some_file") as f:
 
 ```
 
-So to create a context manager we have to impplement two methods: ```__enter__()```and ```__exit__(type,value,traceback)```.
+So to create a context manager we have to implement two methods: ```__enter__()```and ```__exit__(type,value,traceback)```.
 
 ```__exit__(type,value,traceback)``` may return True or False. If True then exceptions is silenced. If no exceptions occurs then type/value/traceback is None.
 
