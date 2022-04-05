@@ -77,13 +77,13 @@ This is the same thing, but it's a lot simpler to reason about (especially in la
 
 What is actually going on?
 
-Create context         ->        ```with``` statement
+Create context         <->        ```with``` statement
 
-Enter context          ->        ```__enter__()```      -> before try
+Enter context          <->        ```__enter__()```      <-> before try
 
-Do something           ->        code blocks            -> inside try
+Do something           <->        code blocks            <-> inside try
 
-Exit the context       ->        ```__exit__()```       -> inside finally
+Exit the context       <->        ```__exit__()```       <-> inside finally
 
 ```python
 class ctx:
