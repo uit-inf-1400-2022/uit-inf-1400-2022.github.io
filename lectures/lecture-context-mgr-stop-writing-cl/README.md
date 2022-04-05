@@ -189,7 +189,7 @@ repeat_50 = WordRepeater(50)
 repeat_50.repeat("Hello World")
 ```
 
-Alternative:
+Alternative just use a function:
 ```python
 def repeat(num, words):
     for i in range(num):
