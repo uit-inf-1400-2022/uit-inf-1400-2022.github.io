@@ -11,12 +11,12 @@ Obligatoriske oppgaver
 
 | U# | Dato     | Oblig                         | Opptak |
 |---:|----------|-------------------------------|--------|
-|  3 | Fr 21.01 | Oblig 1 ut                    |        |
-|  7 | To 17.02 | Oblig 1 inn                   |        |
-|    | Fr 18.02 | Oblig 2 ut                    |        |
-| 10 | To 10.03 | Oblig 2 inn                   |        |
-|    | Fr 11.03 | Oblig 3 ut                    |        |
-| 14 | To 07.04 | Oblig 3 inn (kan bli flyttet) |        |
+|  3 | Fr 20.01 | Oblig 1 ut                    |        |
+|  7 | To 16.02 | Oblig 1 inn                   |        |
+|    | Fr 17.02 | Oblig 2 ut                    |        |
+| 10 | To 09.03 | Oblig 2 inn                   |        |
+|    | Fr 10.03 | Oblig 3 ut                    |        |
+| 14 | To 06.04 | Oblig 3 inn (kan bli flyttet) |        |
 
 Presentasjon og utlevering av obliger skjer på fredager i auditoriet.
 Vi bruker forelesningstidspunktet siden grupperommene er for små. 
